@@ -1,5 +1,5 @@
 # BraveGemini-News
-Small Brave-powered news ingestor + Express CRUD API + React frontend.
+Brave and Gemini powered news ingestor + Express CRUD API + React frontend.
 
 ## Stack
 - Node.js + Express + better-sqlite3 for a simple file-based DB.
