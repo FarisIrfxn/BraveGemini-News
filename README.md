@@ -1,7 +1,7 @@
 # BraveGemini-News
 Brave and Gemini powered news ingestor + Express CRUD API + React frontend.
 
-<img width="1298" height="941" alt="image" src="https://github.com/user-attachments/assets/f47f483c-3a8a-4066-8f05-ac2e1ff80b86" />
+<img width="929" height="944" alt="image" src="https://github.com/user-attachments/assets/edee9e00-3fc0-4790-b91c-2e595b1fca89" />
 
 ## Stack
 - Node.js + Express + better-sqlite3 for a simple file-based DB.
