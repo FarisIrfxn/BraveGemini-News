@@ -1,6 +1,8 @@
 # BraveGemini-News
 Brave and Gemini powered news ingestor + Express CRUD API + React frontend.
 
+<img width="1298" height="941" alt="image" src="https://github.com/user-attachments/assets/f47f483c-3a8a-4066-8f05-ac2e1ff80b86" />
+
 ## Stack
 - Node.js + Express + better-sqlite3 for a simple file-based DB.
 - Ingestion script pulls Brave Search News and enriches with Gemini summaries.
